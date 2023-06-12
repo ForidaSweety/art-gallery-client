@@ -20,7 +20,7 @@ const AllClassDetail = ({ item }) => {
 
         if(user && user.email){
             const selectedCls = {clsId: _id, class_name,available_seats, imag, price, email: user.email}
-            fetch('http://localhost:5005/carts',
+            fetch('https://art-gallery-server.vercel.app/carts',
             {
                 method: 'POST',
                 headers: {

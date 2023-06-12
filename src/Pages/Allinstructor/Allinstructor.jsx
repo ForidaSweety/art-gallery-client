@@ -6,7 +6,7 @@ const Allinstructor = () => {
     const [allinstructor, setAllinstructor] = useState([]);
 
     useEffect(() => {
-        fetch('http://localhost:5005/instructor')
+        fetch('https://art-gallery-server.vercel.app/instructor')
             .then(res => res.json())
             .then(data => setAllinstructor(data));
     }, [])

@@ -8,7 +8,7 @@ const PopularInstructors = () => {
     const [instructorscard, setInstructorscard] = useState([]);
 
     useEffect(() => {
-        fetch('http://localhost:5005/instructor')
+        fetch('https://art-gallery-server.vercel.app/instructor')
             .then(res => res.json())
             .then(data => setInstructorscard(data));
     }, [])

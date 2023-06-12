@@ -7,7 +7,7 @@ const PopularClasses = () => {
     const [clascard, setClasscard] = useState([]);
 
     useEffect(() => {
-        fetch('http://localhost:5005/classes')
+        fetch('https://art-gallery-server.vercel.app/classes')
             .then(res => res.json())
             .then(data => setClasscard(data));
     }, [])
