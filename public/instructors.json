@@ -1,0 +1,41 @@
+[
+    {
+        "name":"Ethan James",
+        "imag":"https://ibb.co/jhhgrqg",
+        "num_of_classes":5,
+        "class_name":"Paper Craft"
+        
+    },
+    {
+        "name":"Lily Rose",
+        "imag":"https://ibb.co/jhhgrqg",
+        "num_of_classes":3,
+        "class_name":"Wood Block Printing"
+        
+    },
+    {
+        "name":"Grace Taylor",
+        "imag":"https://ibb.co/jhhgrqg",
+        "num_of_classes":7,
+        "class_name":"Calligraphy"
+    },
+    {
+        "name":"Owen Parker",
+        "imag":"https://ibb.co/jhhgrqg",
+        "num_of_classes":4,
+        "class_name":"Clay Modeling"
+    },
+    {
+        "name":"Sophia Brooks",
+        "imag":"https://ibb.co/jhhgrqg",
+        "num_of_classes":2,
+        "class_name":"Traditional Painting"
+    },
+    {
+        "name":"Logan Carter",
+        "imag":"https://ibb.co/jhhgrqg",
+        "num_of_classes":6,
+        "class_name":"Sculpture"
+    }
+    
+]

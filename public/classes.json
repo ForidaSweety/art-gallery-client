@@ -1,0 +1,51 @@
+[
+    {
+        "class_name":"Paper Craft",
+        "instructor_name":"Ethan James",
+        "imag":"https://ibb.co/T2XnhN8",
+        "available_seats":5,
+        "price":200,
+        "num_of_student":20
+    },
+    {
+        "class_name":"Wood Block Printing",
+        "instructor_name":"Lily Rose",
+        "imag":"https://ibb.co/566zQHM",
+        "available_seats":3,
+        "price":220,
+        "num_of_student":15
+    },
+    {
+        "class_name":"Calligraphy",
+        "instructor_name":"Grace Taylor",
+        "imag":"https://ibb.co/FDy7q9p",
+        "available_seats":7,
+        "price":190,
+        "num_of_student":18
+    },
+    {
+        "class_name":"Clay Modeling",
+        "instructor_name":"Owen Parker",
+        "imag":"https://ibb.co/d0QRBZf",
+        "available_seats":4,
+        "price":250,
+        "num_of_student":12
+    },
+    {
+        "class_name":"Traditional Painting",
+        "instructor_name":"Sophia Brooks",
+        "imag":"https://ibb.co/PGMQmCt",
+        "available_seats":2,
+        "price":230,
+        "num_of_student":25
+    },
+    {
+        "class_name":"Sculpture",
+        "instructor_name":"Logan Carter",
+        "imag":"https://ibb.co/F6G23Kv",
+        "available_seats":6,
+        "price":300,
+        "num_of_student":30
+    }
+    
+]
